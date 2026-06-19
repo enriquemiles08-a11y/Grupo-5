@@ -1,0 +1,6 @@
+{
+  "name": "Grupo 5 - TCD El Espartano",
+  "description": "Propuesta de Transformación Digital para El Espartano, elaborada por la consultora estudiantil de la Universidad de San Andrés y Digital House.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
